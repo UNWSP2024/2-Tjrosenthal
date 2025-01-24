@@ -1,5 +1,5 @@
 def calculate_total_purchase():
- #Tanner Rosenthal
+#Tanner Rosenthal
 #1/24/2025
 
 #A customer purchases 5 items and the program asks for the prices
