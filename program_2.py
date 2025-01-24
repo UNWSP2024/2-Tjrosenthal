@@ -1,6 +1,6 @@
 
 def average_age():
-   #Tanner Rosenthal
+#Tanner Rosenthal
 #1/24/2025
 
 #Get user input
