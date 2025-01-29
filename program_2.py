@@ -1,13 +1,16 @@
+#Tanner Rosenthal
+#1/24/2025
 
 def average_age():
-    # Get User Input
+#Get user input
+number1 = int(input("Enter the age of person 1"))             
+number2 = int(input("Enter the age of person 2"))
+number3 = int(input("Enter the age of person 3"))
+number4 = int(input("Enter the age of person 4"))
+number5 = int(input("Enter the age of person 5"))
 
+#sum of the ages and average calculated
+numberAvg = (number1 + number2 + number3 + number4 + number5)/5
 
-    # Sum ages
-
-    # Average the ages
-
-    # Print the results
-
-# Line which calls the above function.
-average_age()
+#print results
+print("The average of your 5 ages is", numberAvg)

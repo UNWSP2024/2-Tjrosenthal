@@ -1,16 +1,20 @@
 # Look at line 17 first.
 # This program introduces a couple new concepts,
 # we'll be covering those in the weeks ahead
+
 def temp_conversion(celsius):
     # Write a program that converts Celsius temperatures to Fahrenheit temperatures. 
     # The formula is as follows: F = (9/5)C + 32
     # The program should ask the user to enter a temperature in Celsius, then display the temperature converted to Fahrenheit.
-
     # Calculate the Fahrenheit equivalent.
+
+    #Tanner Rosenthal
+    #1/24/2025
     fahrenheit = 0.0
-    ######################
-    # WRITE YOUR CODE HERE
-    ######################    
+    celsius = int(input("What is the temperature in degrees celsius?"))
+    fahrenheit = celsius * (9/5) + 32
+    print(celsius, "degrees celsius equals", fahrenheit, "degrees fahrenheit")
+
 
 
     # Return the variable to the calling function
