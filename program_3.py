@@ -1,7 +1,7 @@
-def calculate_total_purchase():
 #Tanner Rosenthal
 #1/24/2025
 
+def calculate_total_purchase():
 #A customer purchases 5 items and the program asks for the prices
 item1 = float(input("What is the price of the first item?"))
 item2 = float(input("What is the price of the second item?"))
