@@ -1,8 +1,7 @@
-
-def average_age():
 #Tanner Rosenthal
 #1/24/2025
 
+def average_age():
 #Get user input
 number1 = int(input("Enter the age of person 1"))             
 number2 = int(input("Enter the age of person 2"))
